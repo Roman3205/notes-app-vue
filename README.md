@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # notes-app
+=======
+# notes-app-vue
+>>>>>>> ceaf78940a481fea7108a56f6dfdd69c82db49a9
 
 This template should help get you started developing with Vue 3 in Vite.
 
